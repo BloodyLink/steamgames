@@ -7,7 +7,7 @@ require_once('../classes/createImage.php');
 
 class SteamWebDataController {
 
-    private $key = "A470AEFE50A2598DE6D155172728340D";
+    private $key = "XXXXXXXXXXXXXXXXXX";
     private $steamId;
     private $username;
     private $realName;
