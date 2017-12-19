@@ -9,7 +9,7 @@
     <body onload="limpiar()">
         <input id="steamUser" type="text"/>
         <br />
-        <input type="button" value="Obtener Datos" onclick="loadGameList()"/> 
+        <input type="button" value="Get Data" onclick="loadGameList()"/> 
         <br /><br />
         <span id="listaJuegos"></span>
     </body>
