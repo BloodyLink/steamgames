@@ -3,4 +3,4 @@ creado inicialmente para obtener una captura de la biblioteca de juegos de cualq
 
 
 
-http://davidquezada.cl/experiments/steamgames/
+http://davidquezada.me/experiments/steamgames/
